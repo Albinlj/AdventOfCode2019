@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "4V/telXJEbqbE6OfqnBCMR+Z82NsWYPNf2VkGBrLE9JjvJjxYgzSQ8iekdYufmuSG+CG0GRpkh5AOTyNINn95A==",
+  "success": true,
+  "projectFilePath": "c:\\repos\\AdventOfCode2019\\strut\\strut.fsproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\albin\\.nuget\\packages\\fsharp.core\\5.0.0\\fsharp.core.5.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}
